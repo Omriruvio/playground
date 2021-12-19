@@ -5,3 +5,11 @@
   font-weight: 600;
   max-width: 340px;
 }
+
+@media screen and (max-width: 460px) {
+  .header-content__paragraph {
+    font-size: 18px;
+    line-height: 26px;
+    margin: 23px 0;
+  }
+}

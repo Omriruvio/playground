@@ -1,6 +1,16 @@
 .header-content__title {
+  font-family: "DM Serif Display";
   margin: 22px 0 0;
   font-size: 66px;
   line-height: 68px;
   max-width: 361px;
+}
+
+@media screen and (max-width: 460px) {
+  .header-content__title {
+    display: flex;
+    flex-direction: column;
+    font-size: 51px;
+    line-height: 50px;
+  }
 }

@@ -1,6 +1,7 @@
 /** @format */
 
 @import url("../vendor/normalize.css");
+@import url("../vendor/fonts.css");
 
 @import url("../blocks/hero/hero.css");
 @import url("../blocks/page/page.css");

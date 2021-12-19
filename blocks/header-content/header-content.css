@@ -1,7 +1,21 @@
 .header-content {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
   gap: 38px;
   max-width: 810px;
   margin: 8px auto 0;
+}
+
+@media screen and (max-width: 460px) {
+  .header-content {
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .header-content {
+    margin-left: 27px;
+    margin-right: 27px;
+  }
 }

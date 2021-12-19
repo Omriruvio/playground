@@ -1,0 +1,7 @@
+.header-content {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 38px;
+  max-width: 810px;
+  margin: 8px auto 0;
+}

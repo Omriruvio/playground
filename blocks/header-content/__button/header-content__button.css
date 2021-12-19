@@ -1,0 +1,13 @@
+.header-content__button {
+  all: unset;
+  max-width: 208px;
+  background-color: #131255;
+  color: #fff;
+  font-size: 18px;
+  line-height: 26px;
+  text-align: center;
+  font-weight: bold;
+  padding: 9.5px 0;
+  border-radius: 6px;
+  cursor: pointer;
+}

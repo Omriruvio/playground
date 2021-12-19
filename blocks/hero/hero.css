@@ -1,5 +1,6 @@
 /** @format */
 
 .hero {
-  /*template*/
+  max-width: 810px;
+  margin: auto;
 }

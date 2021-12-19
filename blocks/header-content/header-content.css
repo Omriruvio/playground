@@ -3,5 +3,5 @@
   grid-template-columns: 1fr 1fr;
   gap: 38px;
   max-width: 810px;
-  margin: auto;
+  margin: 8px auto 0;
 }

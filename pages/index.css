@@ -22,3 +22,10 @@
 @import url("../blocks/header-content/__title/header-content__title.css");
 @import url("../blocks/header-content/__paragraph/header-content__paragraph.css");
 @import url("../blocks/header-content/__button/header-content__button.css");
+@import url("../blocks/footer/__wrapper/footer__wrapper.css");
+@import url("../blocks/footer/__info/footer__info.css");
+@import url("../blocks/footer/__links/footer__links.css");
+@import url("../blocks/footer/__logo/footer__logo.css");
+@import url("../blocks/footer/__address/footer__address.css");
+@import url("../blocks/footer/__pitch/footer__pitch.css");
+@import url("../blocks/footer/__unsubscribe/footer__unsubscribe.css");

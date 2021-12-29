@@ -1,0 +1,8 @@
+.footer__unsubscribe {
+  all: unset;
+  color: #fff493;
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 18px;
+}

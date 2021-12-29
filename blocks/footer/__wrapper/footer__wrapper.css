@@ -1,0 +1,8 @@
+.footer__wrapper {
+  max-width: 810px;
+  margin: auto;
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  padding: 53px 0 47px;
+}
